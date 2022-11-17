@@ -52,15 +52,48 @@ Reinforcement learning  :RL is the science of decision making.It is about taking
 Semi supervised learning:
 </pre>
 
-
-
 ![image](https://user-images.githubusercontent.com/80596152/202324134-58bca834-109a-4cae-a772-d9764649d067.png)
 
 
+## Some Terminologies
+<pre>
+Label         :Labels are the final output.
+Feature       : Features are individual independent variables that act as the input in the system.
+Regression    : Regression techniques are used when the output is real-valued based on continuous variables.
+Classification: In classification, we will need to categorize data into predefined classes. 
+                For example, an email can either be ‘spam’ or ‘not spam’.
+
+</pre>
 
 
+## Bias,Variance,Overfitting,Underfitting
+<pre>
+Bias		 : error in training data 
+Variance  : test data error
 
+![image](https://user-images.githubusercontent.com/80596152/202327071-f580ef37-7e09-4169-bef7-e0b2ad23e053.png)
 
+🦖Bias and varinace in regression
+Underfitting (High bias, High variance)
+Generalized moodel (low bias, low variance)  :- optimal model
+Overfitting  (Low bias , High variance)
+
+🦖If the degree of the polynomial increase then flexibility of the line increase andmodel tends to overfitting.
+
+🦖Bias and varinace in classification
+Underfitting (High bias, High variance)
+	Training error 20%
+	testing error  20%
+Generalized moodel (low bias, low variance)  :- optimal model
+	Training error <10%
+	testing error  <10%
+Overfitting  (Low bias , High variance)
+	Training error 1%
+	testing error 20%
+</pre>
+
+🦖error vs degree of polynomial graph
+![image](https://user-images.githubusercontent.com/80596152/202328202-de310b14-1d53-4914-a2ec-c6daa06fd717.png)
 
 
 
