@@ -68,16 +68,17 @@ Classification: In classification, we will need to categorize data into predefin
 
 ## Bias,Variance,Overfitting,Underfitting
 <pre>
-Bias		 : error in training data 
+Bias      : error in training data 
 Variance  : test data error
-
+</pre>
 ![image](https://user-images.githubusercontent.com/80596152/202327071-f580ef37-7e09-4169-bef7-e0b2ad23e053.png)
 
+<pre>
 🦖Bias and varinace in regression
 Underfitting (High bias, High variance)
 Generalized moodel (low bias, low variance)  :- optimal model
 Overfitting  (Low bias , High variance)
-
+</pre>
 ![image](https://user-images.githubusercontent.com/80596152/202328953-3e1361f3-2214-448d-93ca-7b281ccad521.png)
 
 🦖If the degree of the polynomial increase then flexibility of the line increase andmodel tends to overfitting.
