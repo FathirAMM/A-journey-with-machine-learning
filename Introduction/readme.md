@@ -78,6 +78,8 @@ Underfitting (High bias, High variance)
 Generalized moodel (low bias, low variance)  :- optimal model
 Overfitting  (Low bias , High variance)
 
+![image](https://user-images.githubusercontent.com/80596152/202328953-3e1361f3-2214-448d-93ca-7b281ccad521.png)
+
 🦖If the degree of the polynomial increase then flexibility of the line increase andmodel tends to overfitting.
 
 🦖Bias and varinace in classification
@@ -91,8 +93,12 @@ Overfitting  (Low bias , High variance)
 	Training error 1%
 	testing error 20%
 </pre>
+![image](https://user-images.githubusercontent.com/80596152/202328803-6ec43608-36da-4f31-b76f-93f973d288a3.png)
+
 
 🦖error vs degree of polynomial graph
+
+
 ![image](https://user-images.githubusercontent.com/80596152/202328202-de310b14-1d53-4914-a2ec-c6daa06fd717.png)
 
 
