@@ -50,6 +50,8 @@ Reinforcement learning  :RL is the science of decision making.It is about taking
 Semi supervised learning:
 </pre>
 
+![image](https://user-images.githubusercontent.com/80596152/204015903-839b60ed-edd7-4dc8-8beb-2dc78bce67ed.png)
+
 <pre>
 Scikit learn is the popular python library for machine learning.
 
