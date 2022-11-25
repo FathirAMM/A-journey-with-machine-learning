@@ -11,20 +11,25 @@
 9. Decision Tress
 10. Random Forest
 11. Boosting
-=====================================>
-Mathematics
-Statistics
-Coding
-Milestone project
-=====================================>
-Basement for machine learning
-=====================================>
-Optimization & Improvisation in ML
 
-Dimensionality Reduction Using Feature Extraction
-Dimensionality Reduction using Feature Selection
-Model Evaluation (Testing the accuracy of ML model)
-Model Selection (Choosing the best algorithm for a ML problem)
+=====================================>
+* Mathematics
+* Statistics
+* Coding
+* Milestone project
+
+=====================================>
+
+* Basement for machine learning
+
+=====================================>
+
+## Optimization & Improvisation in ML
+
+1. Dimensionality Reduction Using Feature Extraction
+2. Dimensionality Reduction using Feature Selection
+3. Model Evaluation (Testing the accuracy of ML model)
+4. Model Selection (Choosing the best algorithm for a ML problem)
 
 
 
