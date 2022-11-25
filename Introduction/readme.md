@@ -50,6 +50,27 @@ Reinforcement learning  :RL is the science of decision making.It is about taking
 Semi supervised learning:
 </pre>
 
+<pre>
+Scikit learn is the popular python library for machine learning.
+
+Some ML frame works.........
+Google's tensorflow
+Scikit learn
+Microsoft cognitive tool kit
+amazon machine learning
+Azure machine learning
+watson machine learning
+
+</pre>
+
+
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/80596152/202324134-58bca834-109a-4cae-a772-d9764649d067.png)
 
 
